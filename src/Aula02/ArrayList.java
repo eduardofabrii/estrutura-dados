@@ -96,9 +96,9 @@ public class ArrayList<T> {
 
         System.out.println(" ");
         System.out.println(array1.contains("array"));
-        
-        System.out.println(" ");        
-        
+
+        System.out.println(" ");
+
         System.out.println(array1.indexOf("aaa"));
         System.out.println(" ");
 

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e820aeb7-3005-49a2-91bf-90bc26a6bfbc" name="Changes" comment="Aula 01, 02 e 03">
+      <change afterPath="$PROJECT_DIR$/src/Aula02/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/Baixavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Baixavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/Ebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Ebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/ItemBibliotecaDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/ItemBibliotecaDigital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/VideoDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/VideoDigital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/Visualizavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Visualizavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Fila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Pilha.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/eduardofabri/Documents/Faculdade/EstruturaDados" value="3BY5pdN3w2R5WXbaMJthWUkBToz" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eduardofabrii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eduardofabrii/estrutura-dados.git&quot;,
+    &quot;accountId&quot;: &quot;55f2d452-5ce5-4b0f-a817-7d5fdbca9d22&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BY5pdN3w2R5WXbaMJthWUkBToz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/eduardofabri/Documents/Faculdade/EstruturaDados",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/eduardofabri/Documents/Faculdade/EstruturaDados/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e820aeb7-3005-49a2-91bf-90bc26a6bfbc" name="Changes" comment="Aula 01, 02 e 03" />
+      <created>1774653349012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774653349012</updated>
+      <workItem from="1774653350201" duration="17000" />
+      <workItem from="1774653385119" duration="6000" />
+      <workItem from="1774653534442" duration="584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
