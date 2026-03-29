@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e820aeb7-3005-49a2-91bf-90bc26a6bfbc" name="Changes" comment="Aula 01, 02 e 03">
-      <change afterPath="$PROJECT_DIR$/src/Aula02/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/Baixavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Baixavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/Ebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Ebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/ItemBibliotecaDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/ItemBibliotecaDigital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/VideoDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/VideoDigital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/Visualizavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Visualizavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula02/ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Fila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Pilha.java" afterDir="false" />
+    <list default="true" id="e820aeb7-3005-49a2-91bf-90bc26a6bfbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Aula04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/algoritmo/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/estruturas/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/estruturas/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/estruturas/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/modelo/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/modelo/Tabuleiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/ui/JanelaPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/ui/PainelJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstruturaDados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EstruturaDados.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +65,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/eduardofabri/Documents/Faculdade/EstruturaDados",
+    "last_opened_file_path": "/Users/eduardofabri/Documents/Faculdade/EstruturaDados/src/Aula04/estruturas",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,12 +85,15 @@
     "onboarding.tips.debug.path": "/Users/eduardofabri/Documents/Faculdade/EstruturaDados/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Aula04/estruturas" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -111,12 +115,31 @@
       <updated>1774653349012</updated>
       <workItem from="1774653350201" duration="17000" />
       <workItem from="1774653385119" duration="6000" />
-      <workItem from="1774653534442" duration="584000" />
+      <workItem from="1774653534442" duration="6912000" />
+      <workItem from="1774717716263" duration="5285000" />
     </task>
+    <task id="LOCAL-00001" summary="aula 03">
+      <option name="closed" value="true" />
+      <created>1774654151060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774654151060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aula 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 03" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EstruturaDados$Main.ic" NAME="Main Coverage Results" MODIFIED="1774718182247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Aula04.*</FILTER>
+    </SUITE>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
