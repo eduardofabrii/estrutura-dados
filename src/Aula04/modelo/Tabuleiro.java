@@ -24,52 +24,41 @@ public class Tabuleiro {
         BufferedImage img = new BufferedImage(w, h, BufferedImage.TYPE_INT_RGB);
         Graphics2D g = img.createGraphics();
 
-        // Fundo branco
         g.setColor(Color.WHITE);
         g.fillRect(0, 0, w, h);
 
         int esp = 3;
 
-        // Borda externa
         g.setColor(Color.BLACK);
         g.fillRect(0, 0, w, esp);
         g.fillRect(0, h - esp, w, esp);
         g.fillRect(0, 0, esp, h);
         g.fillRect(w - esp, 0, esp, h);
 
-        // Casa
         int casaX = 60;
         int casaY = 200;
         int casaW = 180;
         int casaH = 160;
 
-        // Corpo da casa
         desenharRetangulo(g, casaX, casaY, casaW, casaH, esp);
 
-        // Telhado (triângulo)
         int[] txs = {casaX, casaX + casaW / 2, casaX + casaW};
         int[] tys = {casaY, casaY - 60, casaY};
         desenharTriangulo(g, txs, tys, esp);
 
-        // Porta da casa
         desenharRetangulo(g, casaX + 70, casaY + 80, 40, 80, esp);
 
-        // Janela esquerda
         desenharRetangulo(g, casaX + 15, casaY + 30, 45, 45, esp);
 
-        // Janela direita
         desenharRetangulo(g, casaX + casaW - 60, casaY + 30, 45, 45, esp);
 
-        // Prédio
         int predioX = 340;
         int predioY = 80;
         int predioW = 180;
         int predioH = 340;
 
-        // Corpo do prédio
         desenharRetangulo(g, predioX, predioY, predioW, predioH, esp);
 
-        // Janelas do prédio (3 colunas x 4 linhas)
         int janelaW = 30;
         int janelaH = 30;
         int espacoX = (predioW - 3 * janelaW) / 4;
@@ -83,10 +72,8 @@ public class Tabuleiro {
             }
         }
 
-        // Porta do prédio
         desenharRetangulo(g, predioX + predioW / 2 - 20, predioY + predioH - 60, 40, 60, esp);
 
-        // Chão
         g.setColor(Color.BLACK);
         g.fillRect(0, h - 80, w, esp);
 

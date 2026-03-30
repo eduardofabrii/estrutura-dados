@@ -70,9 +70,6 @@ public class ArrayList<T> {
         return -1;
     }
 
-    // Cria um novo array com a capacidade que existe no objeto que foi instanciado
-    // Percorre esse array instanciado até a capacidade
-    // Atribui cada item do array do objeto ao novo array e retorna
     public T[] toArray() {
         T[] novoArray = (T[]) new Object[capacity];
         for (int i = 0; i < capacity; i++) {

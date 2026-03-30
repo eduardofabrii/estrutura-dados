@@ -26,9 +26,6 @@ public class Fila<T> {
         size++;
     }
 
-    // Move o primeiro para o próximo nó (remove o elemento do início)
-    // Diminuimos o tamanho da fila 
-    // Verificamos caso esteja vazia a fila para não ter fim ja que esta vazia
     public void dequeue() {
         if (isEmpty()) return;
         this.first = this.first.next;
